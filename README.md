@@ -4,7 +4,8 @@ The Arduino Nano-based design incorporates multiple sensors, a 16x2 LCD, and Blu
 ![IMG_5038](https://github.com/user-attachments/assets/6b2241b6-ae19-4d76-a6ea-8075b42dc6e4)
 
 
-Key Components:
+Key Components
+
 Arduino Nano- Serves as the microcontroller to manage inputs from sensors, control the display, and handle Bluetooth communication.
 Sensors- These can include digital (e.g., DHT11 for temperature and humidity) and analog sensors (e.g., potentiometer, gas sensors) for monitoring various environmental parameters.
 16x2 LCD Display- Provides real-time data display from the sensors. It can be interfaced using the I2C protocol to reduce wiring complexity.
