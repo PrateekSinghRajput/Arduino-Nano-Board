@@ -12,8 +12,6 @@ A compact and versatile Arduino Nano-based project integrating sensors, a 16x2 L
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
