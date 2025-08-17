@@ -1,4 +1,4 @@
-# 🌱 Arduino Nano Environmental Monitor 🚀  
+# 🌱 Arduino Nano Development Board 🚀  
 
 A compact and versatile **Arduino Nano** project integrating sensors, a **16x2 LCD display**, and **Bluetooth communication** for real-time environmental monitoring 📡. Perfect for **Beginners**, hobbyists, and embedded systems enthusiasts.  
 
