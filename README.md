@@ -38,14 +38,14 @@ It’s simple, modular, and tailored for **IoT applications** in home automation
 - 🌡️ DHT11 Temperature & Humidity Sensor  
 - 📟 16x2 LCD Display + I2C Module  
 - 📡 Bluetooth Module **(HC-05 / HC-06)**  
-- 🔌 Breadboard + Jumper Wires  
+- 🔌 Jumper Wires  
 
 ---
 
 ## 🔧 Installation  
 
 1. **Hardware Setup**  
-   - Connect the **DHT11**, **LCD (I2C)**, and **Bluetooth** to your **Arduino Nano**.  
+   - Connect the **DHT11**, **LCD (16x2)**, and **Bluetooth** to your **Arduino Nano**.  
    - (Refer to the wiring diagram in this repo 🖇️).  
 
 2. **Software Setup**  
