@@ -1,6 +1,6 @@
 # 🌱 Arduino Nano Environmental Monitor 🚀  
 
-A compact and versatile **Arduino Nano** project integrating sensors, a **16x2 LCD display**, and **Bluetooth communication** for real-time environmental monitoring 📡. Perfect for **IoT beginners**, hobbyists, and embedded systems enthusiasts.  
+A compact and versatile **Arduino Nano** project integrating sensors, a **16x2 LCD display**, and **Bluetooth communication** for real-time environmental monitoring 📡. Perfect for **Beginners**, hobbyists, and embedded systems enthusiasts.  
 
 ---
 
@@ -26,7 +26,7 @@ It’s simple, modular, and tailored for **IoT applications** in home automation
 
 ## ✨ Features  
 ✅ Real-time **temperature & humidity** monitoring  
-✅ Display readings on a **16x2 LCD** (I2C)  
+✅ Display readings on a **16x2 LCD** 
 ✅ Wireless **Bluetooth transmission** to phone/PC  
 ✅ Compact & low-power design 🎛️  
 ✅ **Beginner-friendly Arduino code** with modular sensor integration  
@@ -50,11 +50,6 @@ It’s simple, modular, and tailored for **IoT applications** in home automation
 
 2. **Software Setup**  
    - Install [Arduino IDE](https://www.arduino.cc/en/software) 💻  
-   - Clone this repository:  
-     ```
-     git clone https://github.com/your-username/arduino-nano-env-monitor.git
-     cd arduino-nano-env-monitor
-     ```
    - Open the main **.ino** sketch file in Arduino IDE  
    - Install required libraries via **Library Manager**:  
      - `DHT`  
